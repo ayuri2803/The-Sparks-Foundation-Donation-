@@ -14,7 +14,7 @@
 
 .navbar{
     display: flex;
-	padding:30px;
+    padding:30px;
 }
 
 .nav-list{
@@ -31,11 +31,11 @@
 .nav-list li a{
     text-decoration: none;
     color: darkred;
-	background-color: lightsalmon;
-     border: none;
-     font-family:'Times New Roman', Times, serif;
-     padding: 15px 32px;
-     text-align: center;
+    background-color: lightsalmon;
+    border: none;
+    font-family:'Times New Roman', Times, serif;
+    padding: 15px 32px;
+    text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 20px;
@@ -72,16 +72,16 @@
 	color: blue;
 	font-family:'Times New Roman', Times, serif;
 	padding-top: 20px;
-    padding-right: 10px;
-   padding-bottom: 50px;
-   padding-left: 10px;
-	background-color: rgba(228, 228, 228, 0.8);
-    border-radius: 20px;
-	font-size: 20px;
-	margin: auto;
-   width: 60%;
-   border: 3px solid #2159ad;
-   padding: 10px;
+        padding-right: 10px;
+        padding-bottom: 50px;
+       padding-left: 10px;
+       background-color: rgba(228, 228, 228, 0.8);
+       border-radius: 20px;
+       font-size: 20px;
+       margin: auto;
+      width: 60%;
+      border: 3px solid #2159ad;
+      padding: 10px;
 
 }
 .form_details{
@@ -93,15 +93,15 @@
 	color:black;
  	font-family:'Times New Roman', Times, serif;
 	padding-top: 20px;
-    padding-right: 10px;
-    padding-bottom: 50px;
-    padding-left: 30px;
+        padding-right: 10px;
+        padding-bottom: 50px;
+        padding-left: 30px;
 	background-color: rgba(228, 228, 228, 0.8);
-    border-radius: 20px;
+        border-radius: 20px;
 	margin: auto;
-   width: 60%;
-   border: 3px solid #ad4d21;
-   padding: 10px;
+        width: 60%;
+        border: 3px solid #ad4d21;
+        padding: 10px;
 	
 }
 label{
@@ -142,8 +142,8 @@ img{
 }
 
 .btn{
-	background-color: #ff8000;
-	font-family:'Times New Roman', Times, serif;
+    background-color: #ff8000;
+    font-family:'Times New Roman', Times, serif;
     border: none;
     color: white;
     text-align: center;
@@ -152,10 +152,10 @@ img{
     font-size: 20px;
     margin: 4px 2px;
     cursor: pointer;
-	padding: 10px;
-	background: orangered; 
-	color:white;
-	letter-spacing: 1.5px;
+    padding: 10px;
+    background: orangered; 
+    color:white;
+    letter-spacing: 1.5px;
 }
 
 button:hover{
